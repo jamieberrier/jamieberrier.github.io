@@ -1,11 +1,11 @@
 # Site settings
-author: jamieberrier
-title: 
+author: Jamie Berrier
+title: Here Goes Nothing!
 header-img: img/home-bg.png
 email: berrier.jamie@gmail.com
-copyright_name: jamieberrier
+copyright_name: Jamie Berrier
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My First Blog Post About First My Ruby CLI gem.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jamieberrier
